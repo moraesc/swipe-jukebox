@@ -1,3 +1,5 @@
+testing change
+
 # Magnetic Swipe Card Jukebox
 
 This repo contains what I'm using to make a Musicbox+Raspberry Pi+Spotify jukebox for my kids work with magnetic swipe cards. There is a very small Bash script that waits for input from a card reader, a list of Spotify URIs (see below for why), and I'll try to explain the steps in this readme.
